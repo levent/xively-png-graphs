@@ -1,0 +1,2 @@
+require "./graphs"
+run Graphs
